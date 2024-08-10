@@ -1,0 +1,1 @@
+This repository includes 2 files that complete 2 MLH Global Hack Week challenges in AI/ML. The file hello-bot completes the challenge of Hello World Using Pieces and the file pieces-bot completes the challenge of a Chatbot App Using Pieces.
